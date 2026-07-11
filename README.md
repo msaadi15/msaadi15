@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="mailto:msaadi.abdellah@outlook.fr">
-    <img src="https://img.shields.io/badge/Email-msaadi.abdellah%40outlook.fr-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/msaadi15">
     <img src="https://img.shields.io/badge/GitHub-msaadi15-181717?style=flat&logo=github&logoColor=white" />
