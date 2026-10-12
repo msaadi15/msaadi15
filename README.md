@@ -15,7 +15,7 @@
 ### 🌩️ About Me
 
 - 🎓 Meteorology Engineer, graduated from the **Hassania School of Public Works (EHTP)**, Casablanca (2023–2026)
-- 🔬 Currently a **Research Intern at LAERO, Toulouse**, working on 3D visualization of high-resolution storm simulations (Meso-NH, Cyclone IDAI, EXAEDRE campaign)
+- 🔬 **Research Intern at LAERO, Toulouse**, working on 3D visualization of high-resolution storm simulations (Meso-NH, Cyclone IDAI, EXAEDRE campaign)
 - 🛰️ Past research on **deep learning for convective system detection** from satellite imagery (U-Net, MSG data), **coastal upwelling variability** (ERA5, xarray), and **fog remote sensing** (Random Forest, XGBoost)
 - 💻 Passionate about the intersection of **numerical weather prediction, high-performance computing, and machine learning**
 - 🌍 Based between Morocco and France
